@@ -95,7 +95,7 @@ The slug is derived from the book title using kebab-case rules:
 5. Strip leading/trailing `-`
 6. Truncate to 60 characters
 
-Example: `Grade 3 Poetry - Poems you can Hear and Move to.docx` -> `grade-3-poetry-poems-you-can-hear-and-move-to`
+Example: `My Children's Book.docx` -> `my-childrens-book`
 
 ### 1.3 Check if workspace already exists
 
