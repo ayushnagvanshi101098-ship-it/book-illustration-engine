@@ -1,8 +1,6 @@
 # Book Illustration Engine v2 — FAL Integration + Autonomous Quality
 
 **Date:** 2026-04-10
-**Status:** Approved
-**Builds on:** [v1 design](./2026-04-09-book-illustration-engine-design.md)
 
 ## Overview
 
@@ -10,7 +8,7 @@ v2 upgrades the book illustration engine from a style-locked single-path generat
 
 The engine auto-detects whether a book is narrative (recurring characters) or anthology (unique characters per scene) and routes each scene independently to the best generation path.
 
-## Design Decisions (from brainstorm)
+## Design Decisions
 
 | Decision | Choice | Rationale |
 |---|---|---|
