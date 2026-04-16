@@ -17,9 +17,9 @@ One style reference. Three different scenes. Same look, same world, same fox.
 <table>
   <tr>
     <td align="center"><img src="docs/examples/04-style-ref-thumb.png" width="220"/><br/><sub><b>Style reference (input)</b></sub></td>
-    <td align="center"><img src="docs/examples/01-fox-orchard.jpeg" width="220"/><br/><sub>Scene 1 — fox at the vine</sub></td>
-    <td align="center"><img src="docs/examples/02-fox-leaping.jpeg" width="220"/><br/><sub>Scene 2 — mid-leap</sub></td>
-    <td align="center"><img src="docs/examples/03-fox-walking-away.jpeg" width="220"/><br/><sub>Scene 3 — walking away</sub></td>
+    <td align="center"><img src="docs/examples/01-fox-orchard.png" width="220"/><br/><sub>Scene 1 — fox at the vine (transparent PNG)</sub></td>
+    <td align="center"><img src="docs/examples/02-fox-leaping.png" width="220"/><br/><sub>Scene 2 — mid-leap (transparent PNG)</sub></td>
+    <td align="center"><img src="docs/examples/03-fox-walking-away.png" width="220"/><br/><sub>Scene 3 — walking away (transparent PNG)</sub></td>
   </tr>
 </table>
 
