@@ -1,0 +1,10 @@
+.env
+.env.local
+*.lora
+*.safetensors
+books/
+output/
+workspace/
+*.DS_Store
+node_modules/
+__pycache__/

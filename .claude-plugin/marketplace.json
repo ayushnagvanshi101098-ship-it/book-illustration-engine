@@ -1,0 +1,13 @@
+{
+  "name": "ayush-plugins",
+  "owner": { "name": "Ayush Nagvanshi" },
+  "plugins": [
+    {
+      "name": "book-illustration",
+      "source": ".",
+      "description": "End-to-end pipeline for style-locked, character-consistent, print-ready children's-book illustrations.",
+      "category": "creative",
+      "tags": ["illustration", "books", "nano-banana", "fal", "flux", "lora"]
+    }
+  ]
+}

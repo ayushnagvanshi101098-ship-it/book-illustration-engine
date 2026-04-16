@@ -1,0 +1,11 @@
+{
+  "name": "book-illustration",
+  "version": "1.0.0",
+  "description": "End-to-end pipeline for style-locked, character-consistent, print-ready children's-book illustrations from a .docx/.pdf manuscript.",
+  "author": {
+    "name": "Ayush Nagvanshi",
+    "url": "https://github.com/ayushnagvanshi101098-ship-it"
+  },
+  "license": "MIT",
+  "skills": ["./skills/book-illustration"]
+}
